@@ -12,6 +12,11 @@ public class CalculatorTest{
 
     @Test
     public void canAddNumbers() {assertEquals(2,calculator.addNumber());}
+
+    @Test
+    public void canSubtractNumbers() {assertEquals(0, calculator.subtractNumber());}
+
+
     }
 
 

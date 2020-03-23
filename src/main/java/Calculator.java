@@ -10,4 +10,8 @@ public class Calculator {
     public int addNumber() {
         return (int) (this.number1 += this.number2);
     }
+
+    public int subtractNumber() {
+        return (int) (this.number1 -= this.number2);
+    }
 }
