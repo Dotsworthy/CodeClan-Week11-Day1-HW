@@ -18,6 +18,7 @@ public class CalculatorTest{
 
     @Test
     public void canMultiplyNumbers() {assertEquals(6,calculator.multiplyNumber());}
+
+    @Test
+    public void canDivideNumbers() {assertEquals(1.5, calculator.divideNumber(), 0.01);}
     }
-
-
