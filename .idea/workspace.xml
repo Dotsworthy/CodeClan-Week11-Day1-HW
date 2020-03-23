@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5b7f22fb-7ac3-41e9-b1cd-740aabbd293d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CalculatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WaterBottle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WaterBottle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WaterBottleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WaterBottleTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +44,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.WaterBottleTest">
     <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="homeworkClasses" />
       <option name="PACKAGE_NAME" value="" />
@@ -56,8 +54,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WaterBottleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homeworkClasses" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WaterBottleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WaterBottleTest" />
         <item itemvalue="JUnit.CalculatorTest" />
       </list>
     </recent_temporary>
@@ -104,22 +112,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="508" y="316" width="423" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1584996290436" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1584996294610">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1584996920271">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584996294610" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1584996294608">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584996920271" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1584996920269">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584996294608" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1584996294607">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584996920269" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1584996920268">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584996294607" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1584996294609">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584996920268" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1584996920270">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584996294609" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584996920270" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1584996222342">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
